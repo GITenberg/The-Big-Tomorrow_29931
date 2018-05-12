@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35925
     wikipedia: http://en.wikipedia.org/wiki/Richard_Sharpe_Shaver
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29931#The-Big-Tomorrow
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-09-08'
 gutenberg_type: Text
